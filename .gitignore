@@ -1,0 +1,22 @@
+# Google OAuth credentials
+credentials.json
+token.json
+
+# Personal HR data
+Sheet1.xlsx
+hr_list.xlsx
+
+# Resume
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
