@@ -22,7 +22,7 @@ CREDENTIALS_FILE = r"D:\Projects\email_automation\credentials.json"
 
 TOKEN_FILE = r"D:\Projects\email_automation\token.json"
 
-MY_EMAIL = "gunasekar1652@gmail.com"
+MY_EMAIL = "your mail id"
 
 MAX_EMAILS_PER_RUN = None
 
@@ -115,9 +115,6 @@ Best Regards,
 
 Gunasekar R
 AI/ML Engineer
-
-+91-9345515578
-gunasekar1652@gmail.com
 
 LinkedIn:
 https://www.linkedin.com/in/gunasekar1652/
